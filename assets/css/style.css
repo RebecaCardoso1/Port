@@ -460,7 +460,7 @@ section {
 }
 
 .skills .progress-bar-wrap {
-  background: #dce8f8;
+  background: transparent;
   height: 10px;
 }
 
